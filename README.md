@@ -1,5 +1,5 @@
 # 3101-Crowley
 classwork jan 22
--snickelby is my fave
--SLURPS
--Alice is alright at Zeldaaaaa
+<p>-snickelby is my fave
+<p>-SLURPS
+<p>-Alice is alright at Zeldaaaaa
